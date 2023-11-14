@@ -1,0 +1,14 @@
+What u need!!
+
+hardware -
+
+1. Arduino UNO R3 ×1
+
+2. Arduino UNO R3 Cable ×1
+
+3. Micro Servo Motor Sg90 ×1
+
+4. Male-to-Male Jumper Wire ×3
+
+
+BYE !!
