@@ -1,0 +1,10 @@
+Connections--
+
+>>> Servo Motor GND to Arduino GND
+
+>>> Servo Motor Power to Arduino 5V
+
+>>> Servo Motor Signal to Arduino Digital Pin 9
+
+
+BYE!!!
